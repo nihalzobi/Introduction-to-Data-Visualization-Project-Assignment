@@ -1,22 +1,19 @@
-🧠 AI Translation Assistant (Kısayol Tabanlı Çeviri Asistanı)
+🧠 AI Translation Assistant
+(Kısayol Tabanlı Çeviri Asistanı)
 📌 Proje Amacı
 
 Bu proje, kullanıcıların herhangi bir uygulamada seçtikleri metni tek tuşla (F8) yapay zeka kullanarak farklı dillere çeviren bir masaüstü asistanıdır.
 
-Amaç:
-
+🎯 Amaç
 Hızlı çeviri sağlamak
 Manuel kopyala-yapıştır işlemlerini azaltmak
 Lokal (offline) çalışan bir AI çözümü sunmak
 🚀 Özellikler
-
 ✔️ F8 kısayolu ile anında kullanım
 ✔️ Seçili metni otomatik algılama
 ✔️ Çoklu dil desteği
 ✔️ Lokal AI (internet zorunlu değil)
-✔️ Otomatik çeviri üretimi
 ✔️ Popup pencere ile sonuç gösterimi
-
 🌍 Desteklenen Diller
 🇬🇧 İngilizce
 🇹🇷 Türkçe
@@ -27,27 +24,14 @@ Lokal (offline) çalışan bir AI çözümü sunmak
 🇯🇵 Japonca
 🇸🇦 Arapça
 ⚙️ Nasıl Çalışır?
-Kullanıcı herhangi bir metni seçer
-F8 tuşuna basar
+Metni seç
+F8 tuşuna bas
 Menü açılır
-İstenen dil seçilir
-Seçilen metin AI modeline gönderilir
-Model çeviriyi üretir
+Dil seçilir
+AI modeli çeviri üretir
 Sonuç ekranda gösterilir
 🔄 İş Akışı (Workflow)
-[ Metin Seç ]
-      ↓
-   [ F8 ]
-      ↓
- [ Menü Açılır ]
-      ↓
- [ Dil Seçilir ]
-      ↓
- [ AI Model ]
-      ↓
- [ Çeviri ]
-      ↓
- [ Sonuç Gösterilir ]
+Metin Seç → F8 → Menü Açılır → Dil Seç → AI Model → Çeviri → Sonuç
 🧩 Kullanılan Teknolojiler
 Python
 Ollama (Local LLM)
@@ -79,11 +63,9 @@ Daha fazla dil desteği
 Sesli çeviri
 PDF / doküman çeviri
 UI geliştirme
-Çeviri doğruluk kontrolü
 🧾 Sonuç
 
 Bu proje, yapay zekayı günlük kullanım senaryolarına entegre eden pratik bir çözümdür.
-Kullanıcı deneyimini hızlandırırken lokal AI kullanımını mümkün kılar.
 
 👨‍💻 Geliştirici Notu
 
