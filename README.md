@@ -1,9 +1,5 @@
-<img width="546" height="362" alt="Ekran görüntüsü 2026-04-28 160739" src="https://github.com/user-attachments/assets/5808da4a-5d6b-4f64-9f1f-a53f61b18b5e" />
-<img width="637" height="429" alt="Ekran görüntüsü 2026-04-28 160716" src="https://github.com/user-attachments/assets/1796f606-d96d-4ea1-90f4-035fc8173fc6" />
-
 # 🧠 AI Translation Assistant  
 ### (Kısayol Tabanlı Çeviri Asistanı)
-
 ---
 
 ## 📌 Proje Amacı
@@ -16,6 +12,15 @@ Bu proje, kullanıcıların herhangi bir uygulamada seçtikleri metni **tek tuş
 - Lokal (offline) çalışan bir AI çözümü sunmak  
 
 ---
+
+
+
+
+
+<img width="546" height="362" alt="Ekran görüntüsü 2026-04-28 160739" src="https://github.com/user-attachments/assets/5808da4a-5d6b-4f64-9f1f-a53f61b18b5e" />
+<img width="637" height="429" alt="Ekran görüntüsü 2026-04-28 160716" src="https://github.com/user-attachments/assets/1796f606-d96d-4ea1-90f4-035fc8173fc6" />
+
+
 
 ## 🚀 Özellikler
 
