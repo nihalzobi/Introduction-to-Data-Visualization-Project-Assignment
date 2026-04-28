@@ -1,3 +1,5 @@
+![Uploading Ekran görüntüsü 2026-04-28 160739.png…]()
+![Uploading Ekran görüntüsü 2026-04-28 160716.png…]()
 # 🧠 AI Translation Assistant  
 ### (Kısayol Tabanlı Çeviri Asistanı)
 
