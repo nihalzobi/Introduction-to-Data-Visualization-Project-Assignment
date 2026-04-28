@@ -19,6 +19,8 @@ Bu proje, kullanıcıların herhangi bir uygulamada seçtikleri metni **tek tuş
   <img src="https://github.com/user-attachments/assets/5808da4a-5d6b-4f64-9f1f-a53f61b18b5e" width="45%" />
 </p>
 
+---
+
 ## 🚀 Özellikler
 
 - ✔️ F8 kısayolu ile anında kullanım  
